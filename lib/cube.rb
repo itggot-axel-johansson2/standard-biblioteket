@@ -1,4 +1,4 @@
-# Public: make a number cube
+# Public: make a number in cube
 #
 # number: the integer that will be cubed
 #
