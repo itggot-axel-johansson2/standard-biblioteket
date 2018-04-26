@@ -4,7 +4,7 @@
 #
 # term2: the second integer
 #
-# Exaples
+# Examples
 #
 # add(5, 3)
 #  #=> 8

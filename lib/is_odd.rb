@@ -2,7 +2,7 @@
 #
 # number: the integer that will be checked
 #
-# Exaples
+# Examples
 #
 # is_odd(45)
 #  #=> true

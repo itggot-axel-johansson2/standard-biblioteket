@@ -2,7 +2,7 @@
 #
 # number: the integer that will be cubed
 #
-# Exaples
+# Examples
 #
 # cube(5)
 #  #=> 125

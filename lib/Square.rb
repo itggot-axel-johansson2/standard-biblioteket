@@ -2,7 +2,7 @@
 #
 # number: the first number
 #
-# Exaples
+# Examples
 #
 # next_number(8)
 #  #=> 64
