@@ -2,7 +2,7 @@
 #
 # number: the integer that will be checked
 #
-# Exaples
+# Examples
 #
 # is_negative(-45)
 #  #=> true
