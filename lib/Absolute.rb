@@ -7,4 +7,4 @@ def is_absolute(number)
     end
  return output
 end
-puts is_absolute(-555)
+puts is_absolute(-555) 
