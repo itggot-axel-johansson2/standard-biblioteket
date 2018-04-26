@@ -9,7 +9,7 @@
 # next_number(8)
 #  #=> 7
 #
-# returns the previous number
+# returns true if the number is between
 
 def between(num1, num2, num3)
     output=false
