@@ -5,7 +5,7 @@
 #
 # Examples
 #
-# first_of([2,3,4],5)
+# apend([2,3,4],5)
 #  #=> [2,3,4,5]
 #
 # returns the array with number in the end

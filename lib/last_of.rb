@@ -4,7 +4,7 @@
 #
 # Examples
 #
-# first_of([5,3,2,9,-8])
+# last_of([5,3,2,9,-8])
 #  #=> -8
 #
 # returns the last number in the array

@@ -5,7 +5,7 @@
 #
 # Examples
 #
-# first_of([1,2,3],[4,5,6])
+# concat([1,2,3],[4,5,6])
 #  #=> [1,2,3,4,5,6]
 #
 # returns the two arrays as one
