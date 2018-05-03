@@ -9,8 +9,6 @@
 #  #=> 4
 #
 # returns the smallest
-
-
 def min_of_two(num1, num2)
     output = num1
     if num1>num2
