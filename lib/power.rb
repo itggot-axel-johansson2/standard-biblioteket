@@ -5,7 +5,7 @@
 #
 # Examples
 #
-# next_number(5,3)
+# power(5,3)
 #  #=> 125
 #
 # returns the number 5 in cube 

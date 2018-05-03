@@ -4,7 +4,7 @@
 #
 # Examples
 #
-# next_number(5)
+# factorial(5)
 #  #=> 120
 #
 # returns the sum of all numbers from 1 to 5

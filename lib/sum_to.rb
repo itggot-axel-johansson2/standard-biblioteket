@@ -4,7 +4,7 @@
 #
 # Examples
 #
-# next_number(5)
+# sum(5)
 #  #=> 15
 #
 # returns the sum of all numbers from 0 to 5
